@@ -1,2 +1,1 @@
-# English-Minionese-Translator
-An attempt to translate English to Minionese :)
+An attempt to translate English to minionese :)
